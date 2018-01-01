@@ -5,16 +5,16 @@
     },
     "description": "",
     "devDependencies": {
-        "@types/chai": "^4.0.4",
-        "@types/jest": "^21.1.6",
-        "@types/node": "^8.0.45",
+        "@types/chai": "^4.0.10",
+        "@types/jest": "^21.1.10",
+        "@types/node": "^8.5.2",
         "chai": "^4.1.2",
-        "concurrently": "^3.5.0",
+        "concurrently": "^3.5.1",
         "del-cli": "^1.1.0",
         "jest": "^21.2.1",
-        "ts-jest": "^21.2.1",
+        "ts-jest": "^21.2.4",
         "tslint": "^5.7.0",
-        "typescript": "^2.6.1"
+        "typescript": "^2.6.2"
     },
     "homepage": "https://github.com/tweenrex/tweenrex#readme",
     "jest": {
